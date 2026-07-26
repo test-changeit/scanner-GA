@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-bridge/cardano-observation-extractor",
+  "name": "@my-packages-changeit/cardano-observation-extractor",
   "version": "3.0.6",
   "description": "Event observation data extractor for Cardano chain",
   "repository": {

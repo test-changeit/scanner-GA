@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-bridge/address-extractor",
+  "name": "@my-packages-changeit/address-extractor",
   "version": "7.0.8",
   "description": "UTXO box extractor for any address or token.",
   "repository": {

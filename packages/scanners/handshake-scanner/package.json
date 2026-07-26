@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-bridge/handshake-scanner",
+  "name": "@my-packages-changeit/handshake-scanner",
   "version": "0.2.3",
   "description": "A Handshake blockchain scanner based on RPC API",
   "repository": {

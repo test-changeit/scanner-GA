@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-bridge/tx-id-extractor",
+  "name": "@my-packages-changeit/tx-id-extractor",
   "version": "3.0.8",
   "description": "Extract and store all transaction ids in ogmios blocks.",
   "repository": {

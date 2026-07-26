@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-bridge/bitcoin-observation-extractor",
+  "name": "@my-packages-changeit/bitcoin-observation-extractor",
   "version": "8.0.5",
   "description": "Event observation data extractor for Bitcoin chain",
   "repository": {

@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-bridge/handshake-observation-extractor",
+  "name": "@my-packages-changeit/handshake-observation-extractor",
   "version": "1.0.5",
   "description": "Event observation data extractor for Handshake chain",
   "repository": {

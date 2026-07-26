@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-bridge/evm-observation-extractor",
+  "name": "@my-packages-changeit/evm-observation-extractor",
   "version": "7.0.5",
   "description": "Event observation data extractor for EVM-compatible chains",
   "repository": {

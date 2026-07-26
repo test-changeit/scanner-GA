@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-bridge/fraud-extractor",
+  "name": "@my-packages-changeit/fraud-extractor",
   "version": "3.0.8",
   "description": "fraud information extractor for watcher faulty reports",
   "repository": {

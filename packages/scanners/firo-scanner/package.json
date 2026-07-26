@@ -1,5 +1,5 @@
 {
-  "name": "@rosen-bridge/firo-scanner",
+  "name": "@my-packages-changeit/firo-scanner",
   "version": "0.2.3",
   "description": "A Firo blockchain scanner based on RPC and ElectrumX",
   "repository": {
