@@ -13,7 +13,6 @@ jobs:
 
     env:
       PUBLISH_PREFIX: ${{ vars.PUBLISH_PREFIX != '' && vars.PUBLISH_PREFIX || 'rosen-version:' }}
-      NPM_VERSION: ${{ vars.NPM_VERSION || '11.6.2' }}
 
     steps:
       - name: Checkout
@@ -27,8 +26,10 @@ jobs:
           node-version-file: .nvmrc
           registry-url: 'https://registry.npmjs.org'
 
-      - name: Setup npm ${{ env.NPM_VERSION }}
-        run: npm i -g npm@${{ env.NPM_VERSION }}
+      - name: Setup npm
+        uses: test-changeit/operation/.github/actions/setup-npm@dev
+        with:
+          npm_version: ${{ vars.NPM_VERSION }}
 
       - name: Install Dependencies
         run: npm ci
